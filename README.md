@@ -7,5 +7,5 @@ I'm passionate about building real-world apps, contributing to open-source, and 
 📚 Currently learning: Advanced Python, React, and Cloud DevOps  
 💼 Looking for opportunities to grow in tech and contribute to impactful projects
 
-🔗 Learn more → [github.com/rohitkumar](https://github.com/rohitkumar)
+🔗 Learn more → [github.com/rohitkumar](https://github.com/m-rohit)
 
