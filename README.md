@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Rohit Kumar
 
-<!--
-**m-rohit/m-rohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Self-taught developer | 💻 IT Enthusiast | 🇨🇦 Based in Canada
 
-Here are some ideas to get you started:
+I'm passionate about:
+- 💡 Learning and building full-stack web apps
+- 🔍 Exploring data science & AI
+- 🌍 Creating meaningful digital products
+- ✈️ Working toward Permanent Residency in Canada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- Languages: Python, JavaScript, Java, HTML, CSS
+- Frameworks: React, Node.js, Flask, Django
+- Tools: VS Code, Git, GitHub, Linux, Docker
+
+### 📁 Notable Projects
+- 🔐 Credit Card Fraud Detection App – Python & Machine Learning
+- 📊 Sales Forecasting Tool – Streamlit & Pandas
+- 📚 Quiz App – React + Bootstrap
